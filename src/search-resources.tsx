@@ -6,6 +6,7 @@ import {
   Toast,
   Icon,
   getPreferenceValues,
+  Clipboard,
 } from "@raycast/api";
 import { useCachedPromise } from "@raycast/utils";
 import React, { useState, useEffect } from "react";
