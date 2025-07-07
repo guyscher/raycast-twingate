@@ -3,7 +3,8 @@
   "name": "twingate",
   "title": "Twingate",
   "description": "Access your Twingate resources directly from Raycast",
-  "icon": "twingate-icon.svg",
+  "icon": "twingate-icon.png",
+  "author": "guy_scher",
   "license": "MIT",
   "version": "1.0.0",
   "categories": [
